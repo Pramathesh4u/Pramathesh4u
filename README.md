@@ -13,7 +13,7 @@
 
 ## 🌱 Currently Learning
 - Advanced SQL & Data Analysis  
-- Python for Data Analytics  
+- Al tool & Excel for Data Analytics  
 - Improving ASP.NET & Web Development skills  
 
 ---
