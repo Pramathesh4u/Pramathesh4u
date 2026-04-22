@@ -7,7 +7,7 @@
 ## 👀 About Me
 - Passionate about building real-world web applications  
 - Interested in Software Development, Data Analytics & Database Systems  
-- Currently preparing for IT jobs and TPSC Sr. Computer Assistant  
+- Currently preparing for IT jobs and Project Manager at TSECL   
 
 ---
 
