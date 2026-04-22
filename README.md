@@ -59,8 +59,8 @@
 ---
 
 ## 📫 How to Reach Me
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: your-linkedin-link  
+- 📧 Email: banik.pramathesh4u@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/pramathesh-banik-a70a77a4/
 - 💻 GitHub: https://github.com/Pramathesh4u  
 
 ---
