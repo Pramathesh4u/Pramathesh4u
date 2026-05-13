@@ -40,6 +40,20 @@
 - Billing and invoice generation  
 - Customer record management  
 
+🏨 Hotel Management System (HMS)
+
+•	Room reservation & booking management 
+•	Guest check-in & check-out system 
+•	Room availability & allocation tracking 
+•	Billing and invoice generation 
+•	Restaurant & POS management 
+•	Housekeeping management 
+•	Inventory & store management 
+•	Customer/guest record management 
+•	Staff & role-based access control
+•	Reports & analytics dashboard 
+•	Online booking & channel manager integration
+
 
 
 ## 🛠️ Skills
